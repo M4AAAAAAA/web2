@@ -9,7 +9,7 @@
   <id>https://m4aaaaaaa.github.io/web2/rss.xml/noticies-informatica</id>
   <entry>
     <title>El nou smartphone d'Apple és un èxit en vendes</title>
-    <link href="https://m4aaaaaaa.github.io/web2/rss.xml/noticies/smartphone-apple"/>
+    <link href="https://m4aaaaaaa.github.io/web2/atom.xml/noticies/smartphone-apple"/>
     <id>https://m4aaaaaaa.github.io/web2/rss.xml/noticies/smartphone-apple</id>
     <updated>2023-02-08T00:00:00Z</updated>
     <summary type="html">
@@ -21,14 +21,14 @@
   </entry>
   <entry>
     <title>Google llança una nova eina d'intel·ligència artificial</title>
-    <link href="https://m4aaaaaaa.github.io/web2/rss.xml/google-inteligencia-artificial"/>
+    <link href="https://m4aaaaaaa.github.io/web2/atom.xml/google-inteligencia-artificial"/>
     <id>https://m4aaaaaaa.github.io/web2/rss.xml/google-inteligencia-artificial</id>
     <updated>2023-02-08T00:00:00Z</updated>
     <summary>Google ha llançat una nova eina d'intel·ligència artificial que permet als usuaris fer cerques més precises i rebre resultats més rellevants en temps real. L'eina ha estat ben rebuda per la indústria i espera que revolucioni la forma en què les persones fan cerques en línia.</summary>
   </entry>
   <entry>
     <title>Microsoft presenta la seva nova consola de jocs</title>
-    <link href="https://m4aaaaaaa.github.io/web2/rss.xml/noticies/consola-jocs-microsoft"/>
+    <link href="https://m4aaaaaaa.github.io/web2/atom.xml/noticies/consola-jocs-microsoft"/>
     <id>https://m4aaaaaaa.github.io/web2/rss.xml/consola-jocs-microsoft</id>
     <updated>2023-02-08T00:00:00Z</updated>
     <summary>Microsoft ha presentat la seva nova consola de jocs, que compta amb gràfics impressionants i una àmplia selecció de jocs. La consola ha estat ben rebuda pels fans dels videojocs i espera ser un èxit de vendes arreu del món.</summary>
