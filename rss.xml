@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Notícies d'Informàtica</title>
+    <link>http://exemple.com/noticies-informatica</link>
+    <description>Aquestes són les últimes notícies de la indústria de la tecnologia i l'informàtica.</description>
+    <item>
+      <title>El nou smartphone d'Apple és un èxit en vendes</title>
+      <link>http://exemple.com/noticies/smartphone-apple</link>
+      <description>
+        <![CDATA[
+        <img src="http://exemple.com/img/miquelllauradofilella.jpg" alt="El nou smartphone d'Apple">
+        El nou smartphone d'Apple, presentat en un esdeveniment a San Francisco, està generant una gran quantitat d'interès entre els consumidors i ja ha superat les expectatives en vendes arreu del món.
+        ]]>
+      </description>
+      <enclosure url="https://m4aaaaaaa.github.io/web2//img/miquelllauradofilella.png" type="img/png"/>
+    </item>
+    <item>
+      <title>Google llança una nova eina d'intel·ligència artificial</title>
+      <link>http://exemple.com/noticies/google-inteligencia-artificial</link>
+      <description>Google ha llançat una nova eina d'intel·ligència artificial que permet als usuaris fer cerques més precises i rebre resultats més rellevants en temps real. L'eina ha estat ben rebuda per la indústria i espera que revolucioni la forma en què les persones fan cerques en línia.</description>
+    </item>
+    <item>
+      <title>Microsoft presenta la seva nova consola de jocs</title>
+      <link>http://exemple.com/noticies/consola-jocs-microsoft</link>
+      <description>Microsoft ha presentat la seva nova consola de jocs, que compta amb gràfics impressionants i una àmplia selecció de jocs. La consola ha estat ben rebuda pels fans dels videojocs i espera ser un èxit de vendes arreu del món.</description>
+    </item>
+  </channel>
+</rss>
